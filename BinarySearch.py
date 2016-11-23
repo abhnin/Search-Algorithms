@@ -5,7 +5,7 @@ Created on Wed Nov 23 15:37:40 2016
 @author: abhnin
 """
 
-def BinarySearch(L, e):
+def BinarySearch(L, e): # O(nlogn)
     
     L.sort() # Sort L in assending order
     
